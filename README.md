@@ -6,7 +6,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
 [![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
 
-This repository contains the codebase for Subh Roy's portfolio website, designed to showcase his skills, expertise, and professional journey. The site serves as a dynamic platform to highlight Subh's projects, achievements, and unique creative style, offering an engaging and interactive user experience.
+This repository contains the codebase for Sourish's portfolio website, designed to showcase his skills, expertise, and professional journey. The site serves as a dynamic platform to highlight Subh's projects, achievements, and unique creative style, offering an engaging and interactive user experience.
 
 ## Key Features :
 
